@@ -5,16 +5,23 @@ An interactive quiz web app where users can test their knowledge with fun questi
 🚀 Features :
 
 🎮 Start Quiz – Begin a fun and engaging quiz session
+
 ❓ Dynamic Questions – Questions and options appear dynamically
+
 📊 Score Tracking – Keeps score throughout the quiz
+
 ⏳ Progress Bar – Visual progress indicator while attempting questions
+
 🏆 Result Screen – Displays final score with a motivational message
+
 🔄 Restart Option – Restart the quiz anytime
 
 🛠️ Tech Stack :
 
 HTML5 – Structure
+
 CSS3 – Styling
+
 JavaScript (ES6) – Game logic
 
 📸 Screenshots :
